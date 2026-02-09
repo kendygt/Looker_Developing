@@ -1,21 +1,19 @@
 {
   "dataStudio": {
     "visualizationApiVersion": "1.0",
-    "name": "Tabela com seletor de colunas",
-    "organization": "autozone",
-    "description": "Tabela com menu suspenso e seleção de colunas por checkbox",
-    "supportUrl": "https://developers.google.com/looker-studio",
+    "name": "Teste Visual Kendy",
+    "organization": "kendygt",
+    "description": "Teste mínimo para validação no Looker Studio",
     "devMode": true,
     "components": [
       {
-        "id": "tabela-seletiva-component",
-        "name": "Tabela seletiva",
+        "id": "viz-teste-001",
+        "name": "Visual Teste",
         "type": "VISUALIZATION",
         "resource": {
-          "js": "https://kendygt.github.io/Looker_Developing/looker_table_selector.js"
+          "js": "https://kendygt.github.io/Looker_Developing/viz.js"
         }
       }
     ]
   }
 }
-
