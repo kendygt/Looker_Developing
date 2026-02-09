@@ -2,18 +2,19 @@
   "dataStudio": {
     "visualizationApiVersion": "1.0",
     "name": "Tabela com seletor de colunas",
-    "id": "tabela-seletiva",
-    "logoUrl": "",
-    "supportUrl": "https://developers.google.com/looker-studio",
+    "organization": "KendyGT",
     "description": "Tabela com menu suspenso e seleção de colunas por checkbox",
+    "supportUrl": "https://developers.google.com/looker-studio",
+    "devMode": true,
     "components": [
       {
         "id": "tabela-seletiva-component",
         "name": "Tabela seletiva",
         "type": "VISUALIZATION",
-        "url": "https://script.google.com/macros/s/AKfycbyIUq3DlPwr_A4RVF8ExrsRcPvVKq4bDNBquJS2rrFYmXLWok0bakBf737Qd3CUM2_I/exec"
+        "resource": {
+          "js": "https://kendygt.github.io/Looker_Developing/looker_table_selector.js"
+        }
       }
     ]
   }
 }
-
