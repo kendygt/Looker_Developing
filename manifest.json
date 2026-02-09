@@ -1,17 +1,18 @@
 {
-  "name": "Tabela com seletor de colunas",
-  "id": "tabela-seletiva",
-  "logoUrl": "",
-  "packageUrl": "",
-  "supportUrl": "https://developers.google.com/looker-studio",
-  "description": "Tabela com menu suspenso e seleção de colunas por checkbox",
-  "components": [
-    {
-      "id": "tabela-seletiva-component",
-      "name": "Tabela seletiva",
-      "type": "VISUALIZATION",
-      "url": "https://storage.googleapis.com/gds-visualizations/helloworld/helloworld.html"
-    }
-  ]
+  "dataStudio": {
+    "visualizationApiVersion": "1.0",
+    "name": "Tabela com seletor de colunas",
+    "id": "tabela-seletiva",
+    "logoUrl": "",
+    "supportUrl": "https://developers.google.com/looker-studio",
+    "description": "Tabela com menu suspenso e seleção de colunas por checkbox",
+    "components": [
+      {
+        "id": "tabela-seletiva-component",
+        "name": "Tabela seletiva",
+        "type": "VISUALIZATION",
+        "url": "https://kendygt.github.io/Looker_Developing/looker_table_selector.html"
+      }
+    ]
+  }
 }
-
