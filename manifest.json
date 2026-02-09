@@ -2,7 +2,7 @@
   "dataStudio": {
     "visualizationApiVersion": "1.0",
     "name": "Tabela com seletor de colunas",
-    "organization": "KendyGT",
+    "organization": "autozone",
     "description": "Tabela com menu suspenso e seleção de colunas por checkbox",
     "supportUrl": "https://developers.google.com/looker-studio",
     "devMode": true,
@@ -18,3 +18,4 @@
     ]
   }
 }
+
