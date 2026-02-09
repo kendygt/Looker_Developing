@@ -1,19 +1,13 @@
 {
-  "dataStudio": {
-    "visualizationApiVersion": "1.0",
-    "name": "Teste Visual Kendy",
-    "organization": "kendygt",
-    "description": "Teste mínimo para validação no Looker Studio",
-    "devMode": true,
-    "components": [
-      {
-        "id": "viz-teste-001",
-        "name": "Visual Teste",
-        "type": "VISUALIZATION",
-        "resource": {
-          "js": "https://kendygt.github.io/Looker_Developing/viz.js"
-        }
-      }
-    ]
-  }
+  "name": "Teste Kendy Looker",
+  "id": "kendy-teste-viz",
+  "supportUrl": "https://developers.google.com/looker-studio",
+  "components": [
+    {
+      "id": "kendy-component-01",
+      "name": "Visual Teste",
+      "type": "VISUALIZATION",
+      "url": "https://kendygt.github.io/Looker_Developing/viz.js"
+    }
+  ]
 }
