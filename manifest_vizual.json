@@ -1,8 +1,9 @@
+```json
 {
   "name": "Tabela com seletor de colunas",
   "id": "tabela-seletiva",
-  "logoUrl": "https://storage.googleapis.com/azpr-tdata-us-intl-8001-gcs/looker_table_selector.html",
-  "packageUrl": "https://storage.googleapis.com/azpr-tdata-us-intl-8001-gcs/looker_table_selector.html",
+  "logoUrl": "",
+  "packageUrl": "",
   "supportUrl": "https://developers.google.com/looker-studio",
   "description": "Tabela com menu suspenso e seleção de colunas por checkbox",
   "components": [
@@ -10,7 +11,8 @@
       "id": "tabela-seletiva-component",
       "name": "Tabela seletiva",
       "type": "VISUALIZATION",
-      "url": "https://storage.googleapis.com/azpr-tdata-us-intl-8001-gcs/looker_table_selector.html"
+      "url": "https://kendygt.github.io/Looker_Developing/looker_table_selector.html"
     }
   ]
 }
+```
